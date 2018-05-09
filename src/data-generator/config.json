@@ -1,0 +1,13 @@
+{
+"columns":{
+    " Source IP" : {"col_name": "src_ip"},
+    " Source Port" : {"col_name": "src_port"},
+    " Destination IP" : {"col_name": "dst_ip"},
+    " Destination Port" : {"col_name": "dst_port"},
+    "Init_Win_bytes_forward" : {"col_name": "bytes_in"},
+    " Init_Win_bytes_backward" : {"col_name": "bytes_out"},
+    " Protocol" : {"col_name": "protocol"},
+    " Label" : ""
+},
+    "attr" : "#GAYSEC came out to represent, your squads a no-show. Relaxed rhymes get slept on, but I got a tenser flow."
+}
