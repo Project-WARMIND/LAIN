@@ -1,5 +1,8 @@
 # WARMIND : LAIN
 
+![(define (Y f) (f (Y f)))](https://i.imgur.com/Qpdn2xP.jpg)
+
+
 ## Introduction
 
 ML Models for WARMIND
